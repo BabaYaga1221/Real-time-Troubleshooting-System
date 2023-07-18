@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```css
 python src.py
 ```
-Note: Make sure you have Python (version X.X or higher) installed on your system. And, to work with the AI API, you need to have a valid API key or Token key. You can get the API key from the respective API provider's website. For example, you can get the API key for the BARD API from [here](https://blog.google/technology/ai/bard-google-ai-search-updates/).
+Note: Make sure you have Python (version 3.0 or higher) installed on your system. And, to work with the AI API, you need to have a valid API key or Token key. You can get the API key from the respective API provider's website. For example, you can get the API key for the BARD API from [here](https://blog.google/technology/ai/bard-google-ai-search-updates/).
 
 ## Usage
 1. Launch the application.
