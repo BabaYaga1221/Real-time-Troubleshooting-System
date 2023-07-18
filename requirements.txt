@@ -1,0 +1,8 @@
+customtkinter
+bardapi
+psutil
+Pillow
+requests
+fpdf
+PIL
+tkinter
